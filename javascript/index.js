@@ -40,6 +40,7 @@ function updateCity(event) {
                 )} <small>${cityTime.format("A")}</small>
         </div>
             </div>
+            <a href="index.html">Back to home screen</a>
             `;
 }
 updateTime();
